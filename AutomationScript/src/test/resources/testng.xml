@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Assignment Test Automation for website">
+
+	
+
+	<test name="Assignment Test Cases for website">
+		<classes>
+			<class name="org.com.test.ProductCompare"></class>
+			<class name="org.com.test.TripAdvisorsiteReview"></class>
+			
+
+		</classes>
+	</test>
+</suite>
